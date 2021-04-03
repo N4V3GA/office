@@ -1,0 +1,42 @@
+body { 
+    background-color: rgba(35, 35, 36, 0.808);
+}
+  /*  background: url(https://www.laprimerapiedra.com.ar/wp-content/uploads/the-office-1200.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }*/
+
+  h1 {
+      color: #FFFFFF;
+      text-align: center;
+      text-shadow: 0 0 3px #030f52;
+      padding-top: 20px;
+  }
+  p {
+    text-align: justify;
+  }
+
+  .row{
+      background-color: darkorange;
+      text-align: center;
+   }
+
+   .col-sm{
+    background-color: rgb(148, 230, 141);
+    border-style: double;
+    border-width: 10px;
+   }
+   .col{
+    background-color: rgb(127, 206, 62);
+    border-style: double;
+    border-width: 10px;
+   }
+   ul {
+     text-align: left;
+    
+     
+   }
+
+  
